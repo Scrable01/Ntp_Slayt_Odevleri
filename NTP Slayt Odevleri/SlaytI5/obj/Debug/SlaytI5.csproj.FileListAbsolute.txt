@@ -1,0 +1,8 @@
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI5\obj\Debug\SlaytI5.csproj.AssemblyReference.cache
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI5\obj\Debug\SlaytI5.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI5\obj\Debug\SlaytI5.csproj.CoreCompileInputs.cache
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI5\bin\Debug\SlaytI5.exe.config
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI5\bin\Debug\SlaytI5.exe
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI5\bin\Debug\SlaytI5.pdb
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI5\obj\Debug\SlaytI5.exe
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI5\obj\Debug\SlaytI5.pdb

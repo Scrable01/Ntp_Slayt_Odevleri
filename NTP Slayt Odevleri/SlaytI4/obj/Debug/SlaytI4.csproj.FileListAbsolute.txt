@@ -1,0 +1,8 @@
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI4\bin\Debug\SlaytI4.exe.config
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI4\bin\Debug\SlaytI4.exe
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI4\bin\Debug\SlaytI4.pdb
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI4\obj\Debug\SlaytI4.csproj.AssemblyReference.cache
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI4\obj\Debug\SlaytI4.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI4\obj\Debug\SlaytI4.csproj.CoreCompileInputs.cache
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI4\obj\Debug\SlaytI4.exe
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\SlaytI4\obj\Debug\SlaytI4.pdb
